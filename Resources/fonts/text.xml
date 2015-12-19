@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+<key>next</key>
+<string>磨人精的游戏</string>
+<key>score</key>
+<string>分数: </string>
+<key>restart</key>
+<string>重新开始</string>
+<key>close</key>
+<string>退出游戏</string>
+<key>win</key>
+<string>恭喜~ 你赢了！</string>
+<key>lose</key>
+<string>很遗憾(｀へ´) 你输了！</string>
+</dict>
